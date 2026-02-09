@@ -9,7 +9,7 @@ body {
 
 #contenedor {
     width: 100%; /* Ajuste al 100% del contenedor */
-    max-width: 640px; /* Máximo ancho de 640px */
+    max-width: 720px; /* Máximo ancho de 640px */
     padding: 15px;
     background: white;
     border-radius: 12px;
